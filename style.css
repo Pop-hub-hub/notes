@@ -181,8 +181,16 @@ body{
 .popup-app .popup form > button:hover{
     background-color: rgba(255, 255, 255, 0.268);
 }
-.hp{
+.hp {
     position: fixed;
     bottom: 0;
-    
+    width: 100%;
+    text-align: center;
+    background-color: #0d1117;
+    padding: 10px 0;
+}
+.footer {
+    margin: 0;
+    font-size: 14px; 
+    color: #ffffff;  
 }
