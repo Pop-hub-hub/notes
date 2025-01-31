@@ -186,11 +186,12 @@ body{
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: #1a2432;
-    padding: 10px 0;
+    background-color: #1a2432; 
+    padding: 6px 0 10px 0;
 }
+
 .footer {
     margin: 0;
     font-size: 14px; 
-    color: #ffffff;  
+    color: #ffffff; 
 }
